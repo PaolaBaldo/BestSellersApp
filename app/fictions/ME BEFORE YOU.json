@@ -1,0 +1,58 @@
+
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 1,
+      "rank_last_week": 0,
+      "weeks_on_list": 63,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0670026603",
+          "isbn13": "9780670026609"
+        },
+        {
+          "isbn10": "0143124544",
+          "isbn13": "9780143124542"
+        },
+        {
+          "isbn10": "1594137390",
+          "isbn13": "9781594137396"
+        },
+        {
+          "isbn10": "0143109464",
+          "isbn13": "9780143109464"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ME BEFORE YOU",
+          "description": "A young woman who has barely been farther afield than her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+          "contributor": "by Jojo Moyes",
+          "author": "Jojo Moyes",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin",
+          "primary_isbn13": "9780143124542",
+          "primary_isbn10": "0143124544",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780143124542.jpg",
+          "amazon_product_url": "http://www.amazon.com/Me-Before-You-A-Novel/dp/0143124544?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2013/01/06/books/review/me-before-you-by-jojo-moyes.html",
+          "article_chapter_link": ""
+        }
+      ]
+    }

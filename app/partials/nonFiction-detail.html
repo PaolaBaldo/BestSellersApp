@@ -1,0 +1,94 @@
+
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#">The New York Times Best Sellers</a>
+
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#top-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+    </div>
+
+
+    <div id="top-nav" class="navbar-collapse collapse">
+
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+                <a href="#/fictions" class="dropdown-toggle" data-toggle="dropdown">
+                    <i class="glyphicon glyphicon-gift glyphicon-white"></i>
+                    Livros de Ficção
+                    
+                </a>
+				
+            </li>
+			<li class="dropdown">
+                <a href="#/nonFictions"  >
+                    <i class="glyphicon glyphicon-gift glyphicon-white"></i>
+                    Livros de Não Ficção
+                    
+                </a>
+				
+            </li>
+        </ul>
+
+
+
+        <div class="nav navbar-form pull-right">
+            <div ng-show="!authService.isLoggedIn()">
+                <a href="#loginModal" role="button" class="btn btn-primary" data-toggle="modal">
+                    <i class="glyphicon glyphicon-user glyphicon-white"></i> Sign in</a>
+            </div>
+            <div ng-show="authService.isLoggedIn()">
+                <a class="btn btn-primary" ng-click="authService.logout()">
+                    <i class="glyphicon glyphicon-off glyphicon-white"></i> Sign out</a>
+            </div>
+        </div>
+
+        <div ng-show="authService.isLoggedIn()">
+            <ul class="nav navbar-nav pull-right">
+
+                <li ng-show="authService.isLoggedIn()" class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="glyphicon glyphicon-user glyphicon-white"></i>
+
+                        <b class="caret"></b>
+                    </a>
+
+                    <ul class="dropdown-menu">
+                        <li><a href="#/">User Profile</a></li>
+                        <li><a href="#/">Change password</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+</nav>
+	<div class="container" fade-in>
+
+
+    <div style="padding-top: 2em;">
+<div class="nonFiction-images">
+  <img ng-src="{{img}}"
+       class="nonFiction"
+       ng-repeat="img in nonFiction.images"
+       ng-class="{active: mainImageUrl==img}">
+</div>
+
+<h1>{{nonFiction.book_details[0].title}}</h1>
+
+<p>{{nonFiction.reviews[0].sunday_review_link}}</p>
+
+<p>{{nonFiction.results[0].url}}</p>
+
+
+
+	
+	<iframe ng-src="{{currentProjectUrl}}" width="800" height="800"> </iframe>
+	
+	

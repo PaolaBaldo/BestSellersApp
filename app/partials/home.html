@@ -1,0 +1,165 @@
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-header">
+        <a class="navbar-brand" href="#">The New York Times Best Sellers</a>
+
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#top-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+    </div>
+
+
+    <div id="top-nav" class="navbar-collapse collapse">
+
+        <ul class="nav navbar-nav">
+            <li class="dropdown">
+                <a href="#/fictions" class="dropdown-toggle" data-toggle="dropdown">
+                    <i class="glyphicon glyphicon-gift glyphicon-white"></i>
+                    Livros de Ficção
+                    
+                </a>
+				
+            </li>
+			<li class="dropdown">
+                <a href="#/nonFictions"  >
+                    <i class="glyphicon glyphicon-gift glyphicon-white"></i>
+                    Livros de Não Ficção
+                    
+                </a>
+				
+            </li>
+        </ul>
+
+
+
+        <div class="nav navbar-form pull-right">
+            <div ng-show="!authService.isLoggedIn()">
+                <a href="#loginModal" role="button" class="btn btn-primary" data-toggle="modal">
+                    <i class="glyphicon glyphicon-user glyphicon-white"></i> Sign in</a>
+            </div>
+            <div ng-show="authService.isLoggedIn()">
+                <a class="btn btn-primary" ng-click="authService.logout()">
+                    <i class="glyphicon glyphicon-off glyphicon-white"></i> Sign out</a>
+            </div>
+        </div>
+
+        <div ng-show="authService.isLoggedIn()">
+            <ul class="nav navbar-nav pull-right">
+
+                <li ng-show="authService.isLoggedIn()" class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="glyphicon glyphicon-user glyphicon-white"></i>
+
+                        <b class="caret"></b>
+                    </a>
+
+                    <ul class="dropdown-menu">
+                        <li><a href="#/">User Profile</a></li>
+                        <li><a href="#/">Change password</a></li>
+                    </ul>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+</nav>
+
+<div class="modal" id="loginModal" fade-in>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Login</h4>
+            </div>
+            <div class="modal-body">
+                <span id="login-email">Email</span>
+                <input ng-model="loginInput" type="text" placeholder="Email" name='username'>
+                <span id="login-password">Password</span>
+                <a href="#">Forgot password?</a>
+                <input ng-model="passwordInput" type="password" placeholder="Password" name='password'>
+            </div>
+            <div class="modal-footer">
+                <a class="btn btn-primary" data-dismiss="modal" ng-click="authService.login(loginInput, passwordInput)">
+                    <i
+                            class="glyphicon glyphicon-user glyphicon-white"></i>Log in</a>
+            </div>
+        </div>
+    </div>
+</div>
+<nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+    <div class="navbar-footer">
+
+        <!--
+        <a class="navbar-brand" href="#">&copy; {{constants.company_name}} {{constants.copyright_year}}</a>
+        -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#footer-nav">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+
+    </div>
+
+
+    <div id="footer-nav" class="navbar-collapse collapse">
+
+        <ul class="nav navbar-nav">
+        <li><a href="#/about">About</a></li>
+        <li><a href="#/contact">Contact</a></li>
+
+        <li><a href="#/faq">FAQ</a></li>
+        </ul>
+
+
+    </div>
+</nav>
+<div class="container" fade-in>
+
+
+    <div style="padding-top: 2em;">
+
+        <div class="jumbotron">
+
+            <div style="padding-bottom: 1em;" class="pull-right">
+                <a href="https://github.com/robertjchristian/angular-enterprise-seed" class="alert alert-link"><span><img
+                        ng-src="http://robertjchristian.github.com/fs2/images/octocat-icon.png">View on GitHub</span></a>
+            </div>
+
+            <div class="page-header">
+                <h1>The New York Times Best Sellers</h1>
+                <h2>Previews e Resenhas dos livros Best Sellers do New York Times .</h2>
+            </div>
+
+			
+
+			
+		<div id="centro">
+          
+          <a class="btn" href="#/fictions" ng-click="showDownloadModal()">
+            <i class="icon-download-alt icon-large"></i> Livros de Ficcção<br>
+            <img src="img/fiction77.jpg"><br>
+           
+          </a>&nbsp;
+          <a href="#/nonFictions" target="_blank" class="btn">
+            Livros de Não Ficcção<br>
+            <img src="img/nonFiction.jpg">
+          </a>
+
+        </div>
+
+        </div>
+		
+
+    </div>
+
+</div>
+
+
+
+<!-- Notifications -->
+<div noty ng-repeat="n in notifications"/>

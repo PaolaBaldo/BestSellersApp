@@ -1,0 +1,61 @@
+  {
+      "list_name": "Combined Print and E-Book Nonfiction",
+      "list_name_encoded": "combined-print-and-e-book-nonfiction",
+      "display_name": "Combined Print & E-Book Nonfiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-04-09",
+      "published_date": "2016-04-24",
+      "list_image": "9780062454966.jpg",
+      "normal_list_ends_at": 15,
+      "rank": 19,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0805095152",
+          "isbn13": "9780805095159"
+        },
+        {
+          "isbn10": "1427244235",
+          "isbn13": "9781427244239"
+        },
+        {
+          "isbn10": "1410478122",
+          "isbn13": "9781410478122"
+        },
+        {
+          "isbn10": "1514732998",
+          "isbn13": "9781514732991"
+        },
+        {
+          "isbn10": "1250081246",
+          "isbn13": "9781250081247"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "BEING MORTAL",
+          "description": "The surgeon and New Yorker writer considers how doctors fail patients at the end of life, and how they can do better.",
+          "contributor": "by Atul Gawande",
+          "author": "Atul Gawande",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Metropolitan/Holt",
+          "primary_isbn13": "9780805095159",
+          "primary_isbn10": "0805095152",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780805095159.jpg",
+          "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "http://www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+          "article_chapter_link": ""
+        }
+      ]
+    }

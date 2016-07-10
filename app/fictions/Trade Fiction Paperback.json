@@ -1,0 +1,829 @@
+ [
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 1,
+      "rank_last_week": 0,
+      "weeks_on_list": 63,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0670026603",
+          "isbn13": "9780670026609"
+        },
+        {
+          "isbn10": "0143124544",
+          "isbn13": "9780143124542"
+        },
+        {
+          "isbn10": "1594137390",
+          "isbn13": "9781594137396"
+        },
+        {
+          "isbn10": "0143109464",
+          "isbn13": "9780143109464"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ME BEFORE YOU",
+          "description": "A young woman who has barely been farther afield than her English village finds herself while caring for a wealthy, embittered quadriplegic.",
+          "contributor": "by Jojo Moyes",
+          "author": "Jojo Moyes",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin",
+          "primary_isbn13": "9780143124542",
+          "primary_isbn10": "0143124544",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780143124542.jpg",
+          "amazon_product_url": "http://www.amazon.com/Me-Before-You-A-Novel/dp/0143124544?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2013/01/06/books/review/me-before-you-by-jojo-moyes.html",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 2,
+      "rank_last_week": 0,
+      "weeks_on_list": 9,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1250101190",
+          "isbn13": "9781250101198"
+        },
+        {
+          "isbn10": "1250072689",
+          "isbn13": "9781250072689"
+        },
+        {
+          "isbn10": "1250066638",
+          "isbn13": "9781250066633"
+        },
+        {
+          "isbn10": "125006662X",
+          "isbn13": "9781250066626"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE REVENANT",
+          "description": "Left for dead after a mauling, the master tracker Hugh Glass is consumed by a singular desire for revenge; an inspiration for the 2015 film.",
+          "contributor": "by Michael Punke",
+          "author": "Michael Punke",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Picador",
+          "primary_isbn13": "9781250072689",
+          "primary_isbn10": "1250072689",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781250101198.jpg",
+          "amazon_product_url": "http://www.amazon.com/The-Revenant-A-Novel-Revenge/dp/1250101190?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 3,
+      "rank_last_week": 0,
+      "weeks_on_list": 17,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1439148953",
+          "isbn13": "9781439148952"
+        },
+        {
+          "isbn10": "1501106473",
+          "isbn13": "9781501106477"
+        },
+        {
+          "isbn10": "1439149828",
+          "isbn13": "9781439149829"
+        },
+        {
+          "isbn10": "1439138311",
+          "isbn13": "9781439138311"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "BROOKLYN",
+          "description": "An unsophisticated young Irishwoman leaves her home for New York in the 1950s. The basis of the movie.",
+          "contributor": "by Colm Toibin",
+          "author": "Colm Toibin",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Scribner",
+          "primary_isbn13": "9781501106477",
+          "primary_isbn10": "1501106473",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781439138311.jpg",
+          "amazon_product_url": "http://www.amazon.com/Brooklyn-A-Novel-Colm-Toibin/dp/1439138311?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "http://www.nytimes.com/2009/05/03/books/chapter-brooklyn.html",
+          "sunday_review_link": "http://www.nytimes.com/2009/05/03/books/review/Schillinger-t.html",
+          "article_chapter_link": "http://www.nytimes.com/2009/05/03/magazine/03toibin-t.html"
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 4,
+      "rank_last_week": 0,
+      "weeks_on_list": 69,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0804139024",
+          "isbn13": "9780804139021"
+        },
+        {
+          "isbn10": "0553418025",
+          "isbn13": "9780553418026"
+        },
+        {
+          "isbn10": "0091956145",
+          "isbn13": "9780091956141"
+        },
+        {
+          "isbn10": "1594138540",
+          "isbn13": "9781594138546"
+        },
+        {
+          "isbn10": "1101903589",
+          "isbn13": "9781101903582"
+        },
+        {
+          "isbn10": "110190500X",
+          "isbn13": "9781101905005"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE MARTIAN",
+          "description": "Separated from his crew, an astronaut embarks on a quest to stay alive on Mars. The basis of the movie.",
+          "contributor": "by Andy Weir",
+          "author": "Andy Weir",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Broadway",
+          "primary_isbn13": "9780553418026",
+          "primary_isbn10": "0553418025",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780804139038.jpg",
+          "amazon_product_url": "http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 5,
+      "rank_last_week": 0,
+      "weeks_on_list": 25,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1609450787",
+          "isbn13": "9781609450786"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "MY BRILLIANT FRIEND",
+          "description": "The first installment in the author’s Neapolitan series, about the lifelong friendship between two women.",
+          "contributor": "by Elena Ferrante",
+          "author": "Elena Ferrante",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Europa Editions",
+          "primary_isbn13": "9781609450786",
+          "primary_isbn10": "1609450787",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609450786.jpg",
+          "amazon_product_url": "http://www.amazon.com/Brilliant-Friend-Neapolitan-Elena-Ferrante/dp/1609450787?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 6,
+      "rank_last_week": 0,
+      "weeks_on_list": 394,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0061122416",
+          "isbn13": "9780061122415"
+        },
+        {
+          "isbn10": "0062502182",
+          "isbn13": "9780062502186"
+        },
+        {
+          "isbn10": "0062502174",
+          "isbn13": "9780062502179"
+        },
+        {
+          "isbn10": "0060887966",
+          "isbn13": "9780060887964"
+        },
+        {
+          "isbn10": "0060834838",
+          "isbn13": "9780060834838"
+        },
+        {
+          "isbn10": "0061741248",
+          "isbn13": "9780061741241"
+        },
+        {
+          "isbn10": "0062315005",
+          "isbn13": "9780062315007"
+        },
+        {
+          "isbn10": "0062326775",
+          "isbn13": "9780062326775"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE ALCHEMIST",
+          "description": "A Spanish shepherd boy ventures to Egypt in search of treasure.",
+          "contributor": "by Paulo Coelho",
+          "author": "Paulo Coelho",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "HarperOne/HarperCollins",
+          "primary_isbn13": "9780062315007",
+          "primary_isbn10": "0062315005",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780061122415.jpg",
+          "amazon_product_url": "http://www.amazon.com/The-Alchemist-Paulo-Coelho/dp/0061122416?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 7,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0316407038",
+          "isbn13": "9780316407038"
+        },
+        {
+          "isbn10": "0316407178",
+          "isbn13": "9780316407175"
+        },
+        {
+          "isbn10": "0316407186",
+          "isbn13": "9780316407182"
+        },
+        {
+          "isbn10": "1455585106",
+          "isbn13": "9781455585106"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ALERT",
+          "description": "Detective Michael Bennett and the F.B.I.'s Emily Parker must save New York City from a deadly threat.",
+          "contributor": "by James Patterson and Michael Ledwidge",
+          "author": "James Patterson and Michael Ledwidge",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Grand Central",
+          "primary_isbn13": "9781455585106",
+          "primary_isbn10": "1455585106",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316407038.jpg",
+          "amazon_product_url": "http://www.amazon.com/Alert-Michael-Bennett-James-Patterson/dp/0316407178?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 8,
+      "rank_last_week": 0,
+      "weeks_on_list": 8,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1476738025",
+          "isbn13": "9781476738024"
+        },
+        {
+          "isbn10": "1476738017",
+          "isbn13": "9781476738017"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "A MAN CALLED OVE",
+          "description": "An angry old curmudgeon gets new next-door neighbors, and things are about to change for all of them — and others.",
+          "contributor": "by Fredrik Backman",
+          "author": "Fredrik Backman",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Washington Square",
+          "primary_isbn13": "9781476738024",
+          "primary_isbn10": "1476738025",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781476738024.jpg",
+          "amazon_product_url": "http://www.amazon.com/Man-Called-Ove-Novel/dp/1476738025?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 9,
+      "rank_last_week": 0,
+      "weeks_on_list": 3,
+      "asterisk": 1,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0385539258",
+          "isbn13": "9780385539258"
+        },
+        {
+          "isbn10": "0804172706",
+          "isbn13": "9780804172707"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "A LITTLE LIFE",
+          "description": "Four college friends, one with a traumatic past, move to New York in search of fame and fortune.",
+          "contributor": "by Hanya Yanagihara",
+          "author": "Hanya Yanagihara",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Anchor",
+          "primary_isbn13": "9780804172707",
+          "primary_isbn10": "0804172706",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780385539258.jpg",
+          "amazon_product_url": "http://www.amazon.com/A-Little-Life-Novel/dp/0385539258?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2015/04/05/books/review/hanya-yanagiharas-a-little-life.html",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 10,
+      "rank_last_week": 0,
+      "weeks_on_list": 45,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0316098337",
+          "isbn13": "9780316098335"
+        },
+        {
+          "isbn10": "0316129119",
+          "isbn13": "9780316129114"
+        },
+        {
+          "isbn10": "0316098329",
+          "isbn13": "9780316098328"
+        },
+        {
+          "isbn10": "0316223239",
+          "isbn13": "9780316223232"
+        },
+        {
+          "isbn10": "0316391344",
+          "isbn13": "9780316391344"
+        },
+        {
+          "isbn10": "0330519026",
+          "isbn13": "9780330519021"
+        },
+        {
+          "isbn10": "0316268356",
+          "isbn13": "9780316268356"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ROOM",
+          "description": "The entire world of the 5-year-old boy who narrates this novel is the 11-by-11-foot room in which his mother is being held prisoner. The basis of the movie.",
+          "contributor": "by Emma Donoghue",
+          "author": "Emma Donoghue",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Back Bay/Little, Brown",
+          "primary_isbn13": "9780316098328",
+          "primary_isbn10": "0316098329",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316223232.jpg",
+          "amazon_product_url": "http://www.amazon.com/Room-A-Novel-Emma-Donoghue/dp/0316098329?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "http://www.nytimes.com/2010/09/13/books/13book.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2010/09/19/books/review/Bender-t.html",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 11,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "145558116X",
+          "isbn13": "9781455581160"
+        },
+        {
+          "isbn10": "1455581178",
+          "isbn13": "9781455581177"
+        },
+        {
+          "isbn10": "1455563749",
+          "isbn13": "9781455563746"
+        },
+        {
+          "isbn10": "1455581186",
+          "isbn13": "9781455581184"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "FRICTION",
+          "description": "A Texas Ranger fights for custody of his daughter amid complications stemming from his attraction to the judge.",
+          "contributor": "by Sandra Brown",
+          "author": "Sandra Brown",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Grand Central",
+          "primary_isbn13": "9781455581184",
+          "primary_isbn10": "1455581186",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781455581160.jpg",
+          "amazon_product_url": "http://www.amazon.com/Friction-Sandra-Brown-ebook/dp/B00US1STWW?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 12,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "0316334510",
+          "isbn13": "9780316334518"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE RUMOR",
+          "description": "Two friends on Nantucket must deal with damaging gossip about themselves and their husbands.",
+          "contributor": "by Elin Hilderbrand",
+          "author": "Elin Hilderbrand",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Little, Brown",
+          "primary_isbn13": "9780316334518",
+          "primary_isbn10": "0316334510",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780316334518.jpg",
+          "amazon_product_url": "http://www.amazon.com/The-Rumor-Novel-Elin-Hilderbrand/dp/0316334510?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 13,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "030788743X",
+          "isbn13": "9780307887436"
+        },
+        {
+          "isbn10": "0307887448",
+          "isbn13": "9780307887443"
+        },
+        {
+          "isbn10": "0307887456",
+          "isbn13": "9780307887450"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "READY PLAYER ONE",
+          "description": "It’s 2044, life on a resource-depleted Earth has grown increasingly grim, and the key to a vast fortune is hidden in a virtual-reality world.",
+          "contributor": "by Ernest Cline",
+          "author": "Ernest Cline",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Broadway",
+          "primary_isbn13": "9780307887443",
+          "primary_isbn10": "0307887448",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9780307887443.jpg",
+          "amazon_product_url": "http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "http://www.nytimes.com/2011/08/15/books/ready-player-one-by-ernest-cline-review.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 14,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "159420571X",
+          "isbn13": "9781594205712"
+        },
+        {
+          "isbn10": "0143127551",
+          "isbn13": "9780143127550"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "EVERYTHING I NEVER TOLD YOU",
+          "description": "A daughter’s death from drowning tears away at a Chinese-American family in 1970s Ohio.",
+          "contributor": "by Celeste Ng",
+          "author": "Celeste Ng",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin",
+          "primary_isbn13": "9780143127550",
+          "primary_isbn10": "0143127551",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781594205712.jpg",
+          "amazon_product_url": "http://www.amazon.com/Everything-Never-Told-You-Novel/dp/159420571X?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2014/08/17/books/review/everything-i-never-told-you-by-celeste-ng.html",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Trade Fiction Paperback",
+      "list_name_encoded": "trade-fiction-paperback",
+      "display_name": "Paperback Trade Fiction",
+      "updated": "WEEKLY",
+      "bestsellers_date": "2016-02-20",
+      "published_date": "2016-03-06",
+      "list_image": "9780143124542.jpg",
+      "normal_list_ends_at": 10,
+      "rank": 15,
+      "rank_last_week": 0,
+      "weeks_on_list": 0,
+      "asterisk": 0,
+      "dagger": 0,
+      "isbns": [
+        {
+          "isbn10": "1609451341",
+          "isbn13": "9781609451349"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE STORY OF A NEW NAME",
+          "description": "Book 2 of the Neapolitan series continues the story of two women and their lifelong friendship.",
+          "contributor": "by Elena Ferrante",
+          "author": "Elena Ferrante",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Europa Editions",
+          "primary_isbn13": "9781609451349",
+          "primary_isbn10": "1609451341",
+          "book_image": "http://du.ec2.nytimes.com.s3.amazonaws.com/prd/books/9781609451349.jpg",
+          "amazon_product_url": "http://www.amazon.com/The-Story-New-Name-Neapolitan/dp/1609451341?tag=thenewyorktim-20"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "http://www.nytimes.com/2013/09/29/books/review/elena-ferrantes-story-of-a-new-name.html",
+          "article_chapter_link": ""
+        }
+      ]
+    }
+  ]
